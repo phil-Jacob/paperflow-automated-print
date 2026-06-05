@@ -1,0 +1,6 @@
+{
+  "name": "WhatsApp Printing Automation Sandbox",
+  "description": "Interactive pitch and simulation sandbox for a WhatsApp-integrated automated commercial printing business with smart routing, Stripe payments, and SNMP-controlled shop printers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
